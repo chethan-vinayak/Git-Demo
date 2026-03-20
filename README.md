@@ -1,0 +1,2 @@
+#demo CLASS
+LINE 2
